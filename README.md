@@ -1,0 +1,1 @@
+Este projeto foi realizado durante as aulas de Laboratório de programação em Java na faculdade. Nele foram desenvolvidos as linhas e pontos que de forma conjunta formam as formas geometricas. Com as formas geometricas, linhas e pontos, é possivel desenvolver o desenho desejado. Alem de formas, as cores podem ser alteradas tambem. 
